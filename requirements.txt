@@ -1,0 +1,5 @@
+tensorflow
+deepchem
+jax
+rdkit
+numpy
